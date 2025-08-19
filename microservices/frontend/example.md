@@ -1,0 +1,1 @@
+https://github.com/fxpw/js-vuejs-web-frontend-template
